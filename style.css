@@ -1,0 +1,53 @@
+#left{
+    width : 50%;
+    background : url('https://media.geeksforgeeks.org/wp-content/uploads/20210408155049/gfg9.png');
+    height : 100vh;
+    float : left;
+    background-size: cover;
+    
+    
+
+}
+#matterbox{
+    height : 50vh;
+    background-color :olive;
+    text-align: center;
+    width: 90%;
+    opacity: 0.6;
+    margin: 30px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+#right{
+    float:right;
+    width : 50%;
+    background-color:slategray;
+    text-align: center;
+    height: 100vh;
+    padding-top: 25px;
+    
+}
+.comment{
+    margin: 20px;
+    
+}
+.black{
+    color:white;
+    float:left;
+    width:30%;
+    background-color: black;
+    font-size: 220%; 
+    box-sizing: border-box;
+}
+h4{
+    margin:7px;
+    padding: 14px 7px 7px 7px;
+}
+h5{
+    margin:7px;
+    padding: 14px 7px 13px 7px;
+}
+.white{
+    background-color: white;
+    padding:3px;
+}
